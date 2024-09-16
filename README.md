@@ -1,6 +1,6 @@
 # c practice problem
-<a href="array"><h1>Array</h1></a>
-<h2>1-D array</h2>
+<h1><a href="array">Array</a></h1>
+<h2><a href="array\1-D array">1-D array</a></h2>
 <ol>
 <li><a href="array\1-d array\1.c">write a program in c to input 10 numbers after that print it.</a></li>
 <li><a href="array\1-d array\2.c">write a program in c to input 10 numbers after that print only even elements</a></li>
