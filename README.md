@@ -1,5 +1,5 @@
 # c practice problem
-<a href=""><h1>Array</h1></a>
+<a href="array"><h1>Array</h1></a>
 <h2>1-D array</h2>
 <ol>
 <li><a href="array\1-d array\1.c">write a program in c to input 10 numbers after that print it.</a></li>
