@@ -1,3 +1,5 @@
+//write a program in c to input 10 numbers after that print it.
+
 #include<stdio.h>
 void main(){
     int arr[10] , i;
