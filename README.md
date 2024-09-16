@@ -2,7 +2,7 @@
 <a href=""><h1>Array</h1></a>
 <h2>1-D array</h2>
 <ol>
-<li>write a program in c to input 10 numbers after that print it.</li>
+<li><a href="array\1-d array\1.c">write a program in c to input 10 numbers after that print it.</a></li>
 <li>write a program in c to input 10 numbers after that print only even elements</li>
 <li>write a program in c to input 10 numbers after that find sum of even and odd elements.</li>
 <li>write a program in c to input 10 numbers after that print all elements in reverse order.</li>
