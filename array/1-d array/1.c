@@ -1,4 +1,4 @@
-//write a program in c to input 10 numbers after that print it.
+//write a program in c to input 10 number after that print it.
 
 #include<stdio.h>
 void main(){
