@@ -71,3 +71,10 @@ there are three types of array
 <li><a href="2-D array/10.c">write a program in c to input any square matrix after that find sum of lower and upper triangle.</a></li>
 
 </ol>
+
+<!-- Multi dimensional array -->
+<h2><a href="multi-D array">Multi-Dimensional array </a></h2>
+<ul>
+<li><a href="multi-D array/M1.c">Write a program in c to input 5 matrix after that print all matrix.</a></li>
+</ul>
+<li><a href="multi-D array/M2.c">Write a program in c to input five matrix after that find sum of elements for each matrix.</a></li>
