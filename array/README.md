@@ -74,7 +74,7 @@ there are three types of array
 
 <!-- Multi dimensional array -->
 <h2><a href="multi-D array">Multi-Dimensional array </a></h2>
-<ul>
+<ol>
 <li><a href="multi-D array/M1.c">Write a program in c to input 5 matrix after that print all matrix.</a></li>
-</ul>
 <li><a href="multi-D array/M2.c">Write a program in c to input five matrix after that find sum of elements for each matrix.</a></li>
+</ol>
