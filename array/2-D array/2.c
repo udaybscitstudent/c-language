@@ -1,0 +1,1 @@
+// >write a program in c to input any matrix and search any particular element after that check no is available or not.

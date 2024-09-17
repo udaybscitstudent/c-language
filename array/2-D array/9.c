@@ -1,0 +1,1 @@
+// write a program in c to input any square matrix after that find sum of both perpendicular diagonal elements.

@@ -1,0 +1,1 @@
+// >write a program in c to input two matrix after that find addition.

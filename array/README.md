@@ -49,20 +49,24 @@ there are three types of array
 
 <h2>2-D array</h2>
 <ol>
-<li>Write a program in c to input any matrix after that find smallest and greatest element.</li>
-<li>write a program in c to input any matrix and search any particular element after that check no is available or not.</li>
-<li>Write a program in c to input any matrix after that print only prime element.</li>
+<li><a href="2-D array/1.c">Write a program in c to input any matrix after that find smallest and greatest element.</a></li>
 
-<li>write a program in c to input any matrix  after that check matrix symmetric or not.</li>
+<li><a href="2-D array/2.c">write a program in c to input any matrix and search any particular element after that check no is available or not.</a></li>
 
-<li>write a program in c to input two matrix after that check both matrix are equal or not.</li>
+<li><a href="2-D array/3.c">Write a program in c to input any matrix after print transpose of matrix.</a></li>
 
-<li>write a program in c to input two matrix after that find addition.</li>
+<li><a href="2-D array/4.c">Write a program in c to input any matrix after that print only prime element.</a></li>
 
-<li>write a program in c to input two matrix after that find multiplication.</li>
+<li><a href="2-D array/5.c">write a program in c to input any matrix  after that check matrix symmetric or not.</a></li>
 
-<li>write a program in c to input any square matrix after that find sum of both perpendicular diagonal elements.</li>
+<li><a href="2-D array/6.c">write a program in c to input two matrix after that check both matrix are equal or not.</a></li>
 
-<li>write a program in c to input any square matrix after that find sum of lower and upper triangle.</li>
+<li><a href="2-D array/7.c">write a program in c to input two matrix after that find addition.</a></li>
+
+<li><a href="2-D array/8.c">write a program in c to input two matrix after that find multiplication.</a></li>
+
+<li><a href="2-D array/9.c">write a program in c to input any square matrix after that find sum of both perpendicular diagonal elements.</a></li>
+
+<li><a href="2-D array/10.c">write a program in c to input any square matrix after that find sum of lower and upper triangle.</a></li>
 
 </ol>

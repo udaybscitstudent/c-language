@@ -1,0 +1,1 @@
+// Write a program in c to input any matrix after print transpose of matrix.

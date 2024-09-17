@@ -1,0 +1,1 @@
+// write a program in c to input two matrix after that check both matrix are equal or not.
