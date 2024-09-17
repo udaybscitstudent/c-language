@@ -42,8 +42,7 @@ This concept is implemented with the help of function.</li>
 </ul>
 <br>
 <b>Token's in c</b>
-Tokens are the smallest unit of c and c++. That are used to develop a program.
-<br>
+<p></p>Tokens are the smallest unit of c and c++. That are used to develop a program.</p>
 There are some tokens in c.
 <ul>
 <li>Character set.</li>
@@ -60,7 +59,7 @@ There are some tokens in c.
 </ul>
 
 <br>
-<b>Operator</b>
+<h2>Operator</h2>
 <p>Operator is a symbol which is used to perform operation between operand.</p>
 <b>There are following types of operator</b>
 <ul>
