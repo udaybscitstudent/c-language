@@ -1,5 +1,5 @@
-# c practice problem
-<h1><a href="array">Array</a></h1>
+<h1>Array</h1>
+<h2>overview of array</h2>
 <ul>
 <!-- overview of array -->
 <li>Array is a linear data structure that works in linear function.</li>
@@ -29,6 +29,7 @@ there are three types of array
 </ol>
 
 <!-- 1-D array -->
+# array practice problem
 <h2><a href="1-d array">1-D array</a></h2>
 <ol>
 <li><a href="1-d array\1.c">write a program in c to input 10 numbers after that print it.</a></li>
@@ -47,7 +48,7 @@ there are three types of array
 
 <!-- 2-D array -->
 
-<h2>2-D array</h2>
+<h2><a href="2-D array">2-D array</a></h2>
 <ol>
 <li><a href="2-D array/1.c">Write a program in c to input any matrix after that find smallest and greatest element.</a></li>
 
